@@ -27,7 +27,7 @@ Get ready for a classic game of Hangman! A random word will be selected, and you
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/iamsandysam/arcade-games.git
+    git clone https://github.com/iamsandysam/C-Projects
     ```
 
 2. Compile the source code:
